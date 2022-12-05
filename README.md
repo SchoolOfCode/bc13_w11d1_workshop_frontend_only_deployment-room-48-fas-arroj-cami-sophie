@@ -12,10 +12,20 @@ Note: The free tier of Netlify doesn't allow deployment of private organisation 
  
 Practice taking turns to explain the answers to these questions:
  - What is Netlify?
+ Ans: An application that allows you to deploy a site.
+ 
  - What problems does Netlify solve?
+ Ans: Don't need to run your site on localhost on your computer. Can become more accessible. 
+ 
  - When would you use it?
+ Ans: When working on a team and want to share progress with client you can just share a link instead of all the files. 
+ 
  - When would you not use it?
+ Ans: When working solo or on work that you don't want to share we anyone. 
+ 
  - What are some alternatives/competitors to Netlify? (Just to know what else is out there.)
+ Ans: 1. Cloudflare CDN, 2. Pantheon, 3. G2 Deals, 4. AWS CloudFront, 5. Webflow
+    
 
 2. Initialise your React app with Create React App. 
  - It can just be the standard "Hello World" boilerplate.
